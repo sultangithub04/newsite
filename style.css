@@ -1,0 +1,78 @@
+
+body{
+   
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 0;
+  
+   
+}
+h1{
+    font-size: 40px;
+}
+.highligt-yellow{
+color: orange;
+}
+.link-button{
+
+    text-decoration: none;
+    background-color: orange;
+    padding: 10px 15px;
+    border-radius: 10px;
+    font-weight: 700;
+    color: white;
+    background-image: linear-gradient(45deg, orange, rgb(209, 223, 12));
+}
+.half-width{
+width: 40%;
+padding-left: 5%;
+margin-left: 2%;
+float: left;
+
+}
+.half-width img{
+
+    width: 100%;
+}
+.top-baner{
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+    
+   
+}
+section{
+    height: 500px;
+   padding-bottom: 150px;
+}
+.dream-area{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.box-shadoow{
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 5px;
+    height: 80%;
+    background-color: white;
+    
+}
+.expernace-ara{
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left ;
+    
+    
+}
+#shadd-ddd{
+
+    border-left: 7px solid;
+    border-image:linear-gradient(180deg, lightsalmon, tomato);
+    border-image-slice: 1;
+   
+}
+#shadd-ddde{
+    border-left: 7px solid;
+    border-image:linear-gradient(180deg, blue, tomato);
+    border-image-slice: 1;
+
+}
+
